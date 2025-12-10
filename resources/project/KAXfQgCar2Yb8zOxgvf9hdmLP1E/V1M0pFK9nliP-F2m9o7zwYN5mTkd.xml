@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="models/ControlObject_demo_22b.slx" GroupUUID="default" Icon="" Name="ControlObject_demo_22b" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="486b3f03-c021-4f1c-84bc-56a491ea3802"/>
+</Info>

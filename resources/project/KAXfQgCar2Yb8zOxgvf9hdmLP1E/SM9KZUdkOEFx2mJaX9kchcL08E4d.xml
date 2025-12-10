@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="scripts/initialization/load_constant.asv" GroupUUID="default" Icon="" Name="load_constant" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="bb22b9c1-c14f-499b-91d1-2f61ab355e55"/>
+</Info>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="scripts/deinitialization/unload_workspace.m" GroupUUID="default" Icon="" Name="unload_workspace" Type="Shutdown" Visible="1">
+    <Extension Name="ShutdownPrev" Value="838e8314-ae9a-4d83-aa50-296f7b3985d3"/>
+</Info>

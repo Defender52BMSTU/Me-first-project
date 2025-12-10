@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="models/GotoviiShema.slx" GroupUUID="default" Icon="" Name="GotoviiShema" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="4ce54313-6567-41ce-a83b-e337e7cdb719"/>
+</Info>
